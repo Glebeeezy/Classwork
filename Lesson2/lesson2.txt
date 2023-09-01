@@ -2,3 +2,4 @@ Gleb 5 points
 Vasya 6 points
 Sasha 7 points
 Pyotr 8 points
+Stas 9 points
